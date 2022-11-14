@@ -19,4 +19,5 @@ int randx(int l,int r);
 void generate(char* formatname);
 void GetFileName(std::string path, std::vector<std::string> &files);
 int Ran_in();
+
 #endif
